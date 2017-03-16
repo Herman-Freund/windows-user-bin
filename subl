@@ -1,0 +1,2 @@
+#!/bin/bash -e
+'/c/temp/prgrm/Sublime Text Build 3083/sublime_text.exe' -w "$*"
