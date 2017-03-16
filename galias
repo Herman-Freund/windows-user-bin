@@ -1,2 +1,2 @@
 #!/bin/bash -e
-g cfg -l | grep alias | cut -c 7-
+git config --global -l | grep alias | cut -c 7-
