@@ -3,4 +3,4 @@
 #	precede with dot like so: ". goToDir"
 #
 
-cd "/c/temp/go to dir"
+cd "/c/go to dir"
